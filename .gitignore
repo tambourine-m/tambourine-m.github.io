@@ -1,5 +1,6 @@
 # Idea files
 .idea/*
+.vscode/
 
 # Mac files
 .DS_Store
@@ -17,9 +18,11 @@ _development_tool/*
 
 # Theme Gem files
 Gemfile.lock
+Gemfile
 *.gem
 .gems
 jekyll-theme-type-on-strap.gemspec
+/Users/janghoekoo/github/tambourine-m.github.io/type-on-strap.gemspec
 
 # Node js files
 **/node_modules/*
