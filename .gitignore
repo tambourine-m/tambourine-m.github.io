@@ -21,8 +21,7 @@ Gemfile.lock
 Gemfile
 *.gem
 .gems
-jekyll-theme-type-on-strap.gemspec
-/Users/janghoekoo/github/tambourine-m.github.io/type-on-strap.gemspec
+*.gemspec
 
 # Node js files
 **/node_modules/*
