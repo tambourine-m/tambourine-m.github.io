@@ -52,5 +52,3 @@ sass:
   style: compressed
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
-
-mermaid: default
