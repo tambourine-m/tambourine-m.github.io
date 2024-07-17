@@ -212,5 +212,6 @@ package-lock.json
 ```
 
 * 다시 local server 를 띠워서 확인 후 github 에 push 하고, http://username.github.io 로 접속하면 끝!
+* repository 의 Settings > Pages > Enforce HTTPS 체크되어 있다면 https://username.githnub.io 로 접속
 
 ![local](/assets/img/blog/2024/07/2024-07-07-04.png)
